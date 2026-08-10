@@ -80,6 +80,4 @@ Backend: Node.js/Express or Python/FastAPI for secure authentication and databas
 True AI Model: Replacing the heuristic color-analysis with a real MobileNetV2 or ResNet TensorFlow.js/ONNX model trained on the PlantVillage dataset for actual image classification.
 Cloud Storage: AWS S3 or Firebase for storing user leaf images.
 ---
-📄 License
-This project is a conceptual AgriTech prototype. Feel free to fork, modify, and use it for agricultural hackathons, school projects, or open-source AgriTech initiatives.
-Grown with 💚 for farmers.
+
